@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChuongTrinhTinhTong</string>
+    <string name="BTT">Tính</string>
+    <string name="RBTT">-</string>
+    <string name="RBTC">+</string>
+    <string name="RBTN">*</string>
+    <string name="RBTCH">/</string>
+    <string name="KQ">Kết Quả</string>
+    <string name="BTV">Trở Lại</string>
+    <string name="A">Nhập N1</string>
+    <string name="B">Nhap N2</string>
+
+</resources>
